@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/Belly606/social-links-profile)
-- Live Site URL: [live site URL here](https://belly606.github.io/social-links-profile/)
+- Solution URL: [solution URL here](https://github.com/Belly606/Blog-preview-card)
+- Live Site URL: [live site URL here](https://belly606.github.io/Blog-preview-card/)
 
 ## My process
 
